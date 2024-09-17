@@ -72,5 +72,5 @@ No specific dataset is required as the system uses images captured via webcam fo
 - `Attendance/`: Directory for storing attendance records.
 
 ![Screenshot 2024-09-17 235423](https://github.com/user-attachments/assets/10bda991-ca9a-4049-a607-d37e6070146b)
-![Screenshot 2024-09-17 235332](https://github.com/user-attachments/assets/3d22d452-7824-42d3-b72d-50d154038cc0)
+
 
